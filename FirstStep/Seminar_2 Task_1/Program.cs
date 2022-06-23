@@ -10,6 +10,7 @@ namespace Seminar_2_Task_3
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

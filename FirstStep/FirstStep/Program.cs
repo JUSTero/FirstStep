@@ -20,7 +20,6 @@ namespace FirstStep
             {
                 Random a = new Random ();
                 int b = a.Next(1001);
-                Console.WriteLine(b);
 
                 if (b > prev)
                 {
@@ -35,10 +34,8 @@ namespace FirstStep
                         c = c / i;
                     }
 
-                    sum = sum + c;
+                sum = sum + c;
 
-                }   
-                    
                     if (sum < 26)
                     {
                         Console.WriteLine(b);
@@ -47,11 +44,12 @@ namespace FirstStep
                     }
                     else
                     {
+                        Console.WriteLine(b);
                         Console.WriteLine("STOP");
 
                         break;
                     }
-                
+                }
             }
         }
     }
