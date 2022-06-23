@@ -10,7 +10,7 @@ namespace FirstStep
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Nigga");
+            Console.WriteLine("Hello Jew");
         }
     }
 }
