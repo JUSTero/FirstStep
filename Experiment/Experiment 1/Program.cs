@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Seminar_2_Task_3
+namespace Experiment_1
 {
     internal class Program
     {
@@ -40,12 +40,5 @@ namespace Seminar_2_Task_3
                     break;
             }
         }
-
-
-
-
-
-
     }
 }
-
